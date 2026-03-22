@@ -1,4 +1,10 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-.bundle
+node_modules
+.env
+.env.*
+!.env.example
+.next
+dist
+coverage
+backend/logs
+frontend/.vercel
+.DS_Store
